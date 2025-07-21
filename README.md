@@ -30,11 +30,5 @@
   <img align="center" alt="Agular" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,figma" />
-  </a>
-</p>     
-          
 
 </div>
