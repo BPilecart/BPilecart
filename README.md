@@ -16,7 +16,6 @@
 
 <div style="display: inline_block"><br>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python" />
     <img src="https://skillicons.dev/icons?i=angular" />
     <img src="https://skillicons.dev/icons?i=typescript" />
@@ -25,7 +24,6 @@
     <img src="https://skillicons.dev/icons?i=cs" />
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=figma" />
-  </a>
 </p>
 
 </div>
